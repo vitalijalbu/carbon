@@ -1,0 +1,16 @@
+@import './_icons.scss';
+@import './_app.scss';
+
+/* Custom color theme properties */
+
+:root {
+    --f7-theme-color: #006241;
+    --f7-theme-color-rgb: 0, 98, 65;
+    --f7-theme-color-shade: #003926;
+    --f7-theme-color-tint: #008b5c;
+    --f7-button-raised-box-shadow: 0;
+    --f7-page-bg-color: #fff;
+}
+
+
+/* Your app custom styles here */
