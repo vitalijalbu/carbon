@@ -10,6 +10,7 @@
     "dependencies": {
         "@carbon/react": "^1.1.0",
         "@carbon/styles": "^1.1.0",
+        "carbon-components-react": "^8.9.0",
         "react": "^18.0.0",
         "react-dom": "^18.0.0",
         "react-router-dom": "^6.3.0"
